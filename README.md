@@ -1,29 +1,25 @@
-# Create T3 App
+# e-Commerce Website with T3 Stack
 
-This is a [T3 Stack](https://create.t3.gg/) project bootstrapped with `create-t3-app`.
+**12 Weeks: 12 Projects**
 
-## What's next? How do I make an app with this?
+Week 3:
+Making a full stack dummy e-Commerce website using the T3 stack and [fakestoreAPI](fakestoreapi.com).
 
-We try to keep this project as simple as possible, so you can start with just the scaffolding we set up for you, and add additional things later when they become necessary.
+## Road Map
 
-If you are not familiar with the different technologies used in this project, please refer to the respective docs. If you still are in the wind, please join our [Discord](https://t3.gg/discord) and ask for help.
+**Stage 1**
 
-- [Next.js](https://nextjs.org)
-- [NextAuth.js](https://next-auth.js.org)
-- [Prisma](https://prisma.io)
-- [Drizzle](https://orm.drizzle.team)
-- [Tailwind CSS](https://tailwindcss.com)
-- [tRPC](https://trpc.io)
+- [ ] Create Road Map - README.md
+- [ ] Fix Config Files and tidy up build process
+- [ ] Create homepage UI
+- [ ] Routing for product pages
+- [ ] Deployment - Vercel
+- [ ] Add authentication - nextAuth
+- [ ] Setup User Database - Vercel Postgres with Drizzle
+- [ ] Attach Database to frontend
+- [ ] Create User profile and Card
+- [ ] Profile picture upload with UploadThing
 
-## Learn More
 
-To learn more about the [T3 Stack](https://create.t3.gg/), take a look at the following resources:
-
-- [Documentation](https://create.t3.gg/)
-- [Learn the T3 Stack](https://create.t3.gg/en/faq#what-learning-resources-are-currently-available) — Check out these awesome tutorials
-
-You can check out the [create-t3-app GitHub repository](https://github.com/t3-oss/create-t3-app) — your feedback and contributions are welcome!
-
-## How do I deploy this?
-
-Follow our deployment guides for [Vercel](https://create.t3.gg/en/deployment/vercel), [Netlify](https://create.t3.gg/en/deployment/netlify) and [Docker](https://create.t3.gg/en/deployment/docker) for more information.
+*developer notes*
+`Not going with clerk for auth because I want to test out nextAuth`
