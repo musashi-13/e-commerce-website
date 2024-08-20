@@ -9,8 +9,8 @@ Making a full stack dummy e-Commerce website using the T3 stack and [fakestoreAP
 
 **Stage 1**
 
-- [ ] Create Road Map - README.md
-- [ ] Fix Config Files and tidy up build process
+- [X] Create Road Map - README.md
+- [X] Fix Config Files and tidy up build process
 - [ ] Create homepage UI
 - [ ] Routing for product pages
 - [ ] Deployment - Vercel
