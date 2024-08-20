@@ -11,9 +11,9 @@ Making a full stack dummy e-Commerce website using the T3 stack and [fakestoreAP
 
 - [X] Create Road Map - README.md
 - [X] Fix Config Files and tidy up build process
-- [ ] Create homepage UI
+- [X] Create homepage UI
+- [X] Deployment - Vercel
 - [ ] Routing for product pages
-- [ ] Deployment - Vercel
 - [ ] Add authentication - nextAuth
 - [ ] Setup User Database - Vercel Postgres with Drizzle
 - [ ] Attach Database to frontend
